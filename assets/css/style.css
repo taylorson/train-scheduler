@@ -1,0 +1,36 @@
+body {
+    background-image: url(../images/train.jpeg);
+    background-size: cover;
+    /*background-position: center center;*/
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.jumbotron,
+.panel-primary {
+    opacity: .92;
+}
+
+#header {
+    margin-top: 10px;
+    background-color: #D7DBDB;
+    background: linear-gradient(#484A4A, #D7DBDB);
+    color: black;
+    font-family: 'Sedgwick Ave', cursive;
+}
+
+#panel {
+    border-color: #D7DBDB;
+}
+
+#heading {
+    background-color: #484A4A;
+}
+
+#add-train {
+    background-color: #484A4A;
+}
+
+h3 {
+    text-shadow: 2px 2px 2px black;
+}
